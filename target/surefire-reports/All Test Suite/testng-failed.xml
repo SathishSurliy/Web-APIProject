@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]" parallel="tests">
+  <test thread-count="2" verbose="0" name="C:/Users/Satish/Desktop/WebAutomationSelenium(failed)" parallel="tests">
+    <classes>
+      <class name="Tests.SanityTest">
+        <methods>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- Tests.SanityTest -->
+    </classes>
+  </test> <!-- C:/Users/Satish/Desktop/WebAutomationSelenium(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
