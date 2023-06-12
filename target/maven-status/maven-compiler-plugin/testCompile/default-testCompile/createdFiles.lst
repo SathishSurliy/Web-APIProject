@@ -1,0 +1,5 @@
+APITesting\BDDStyleTest2.class
+Tests\DropdownTest.class
+Tests\DynamicWebTablesTest.class
+APITesting\SerilizationProcess_HardcordedData_UsingHashMapTest.class
+Tests\SanityTest.class
